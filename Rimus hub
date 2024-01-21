@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vuquocoai123/lua/main/Blox-Fruit-RimusHub"))()
