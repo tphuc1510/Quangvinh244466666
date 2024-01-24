@@ -1,0 +1,31 @@
+getgenv().config = {
+
+  ["Team"] = "Pirates",
+
+  ["Chat"] = {
+
+    ["Text"] = "I Got Night Hub Script!!!",
+
+    ["Enable"] = true
+
+  },
+
+  ["Screen"] = {
+
+    ["White Screen"] = false,
+
+    ["Black Screen"] = false
+
+  },
+
+  ["Settings"] = {
+
+    ["Stop When Have God's Chaile"] = false,
+
+    ["Stop When Have Dark Key"] = false
+
+  },
+
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NIGHTHUBONTOP/Main/main/AutoChest.lua"))()
